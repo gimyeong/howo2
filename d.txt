@@ -1,2 +1,2 @@
 this is a job in git.
-this is the second a job in github
+this is the second a job in github.
